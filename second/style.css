@@ -1,0 +1,33 @@
+#first, #second, #third
+{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  height: 100%;
+}
+#first
+{
+  width: 34%;
+  left: 0;
+  background-color: #548eea;
+}
+#second
+{
+  left: 34%;
+  background-color: #33ccc1;
+  width: 33%;
+}
+#third
+{
+  width: 33%;
+  right: 0;
+  background-color: #b5e285;
+}
+#picture
+{
+  position:absolute;
+  bottom: 0;
+  right: 0;
+  max-width: 33%;
+  height: auto;
+}
