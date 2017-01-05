@@ -1,0 +1,33 @@
+#left, #top, #right, #bottom
+{
+  position: fixed;
+}
+#left, #right
+{
+  top: 100px; bottom: 100px;
+  width: 100px;
+  background-color: silver;
+}
+#top, #bottom
+{
+  left: 0; right: 0;
+  height: 100px;
+}
+#top
+{
+  background-color: #5d5d5d;
+  top: 0;
+}
+#left
+{
+  left: 0;
+}
+#right
+{
+  right: 0;
+}
+#bottom
+{
+  bottom: 0;
+  background-color: black;
+}
