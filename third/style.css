@@ -1,0 +1,58 @@
+#headerBar, #bodyBar, #threeBar, #fourBar, #fiveBar, #footerBar
+{
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
+#headerBar
+{
+  height: 10%;
+  top: 0;
+  background-color: silver;
+}
+#blueSquare
+{
+  background-color: blue;
+  top: 10%;
+  /*left: 2%;*/
+  height: 80%;
+  width: 8%;
+  max-width: 80px;
+  position: absolute;
+  margin: 2px 0px 0px 5px;
+}
+#bodyBar
+{
+  height: 30%;
+  top: 10%;
+  background-color: white;
+}
+#threeBar
+{
+  height: 15%;
+  top: 40%;
+  background-color: #4990E2;
+}
+#fourBar
+{
+  height: 15%;
+  top: 55%;
+  background-color: #4FE3C1;
+}
+#fiveBar
+{
+  height: 15%;
+  top: 70%;
+  background-color: #B9E888;
+}
+#footerBar
+{
+  height: 15%;
+  top: 85%;
+  background-color: #F8E71E;
+}
+h2
+{
+  padding: 50px 50px 50px 50px;
+}
